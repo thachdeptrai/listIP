@@ -1,1 +1,1 @@
-NORMAL:svnormal.online:14444:0:0,CITY:sv1.thanhphoninja.com:14444:0:0,Vision:160.191.88.185:14444:0:0,NSOGENESIS:160.191.242.181:14444:0:0,Local:127.0.0.1:14444:0:0,Kun:14.225.202.214:14444:0:0,Nova:103.77.173.253:14444:0:0,nsotuoitho:sv.tuoitho.com:14444:0:0,NsoSara:14.225.230.82:14444:0:0,NSO386:14.225.208.187:14444:0:0
+NORMAL:svnormal.online:14444:0:0,CITY:sv1.thanhphoninja.com:14444:0:0,Local:127.0.0.1:14444:0:0
