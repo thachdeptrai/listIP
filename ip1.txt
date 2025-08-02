@@ -1,1 +1,1 @@
-NORMAL:svnormal.online:14444:0:0,CITY:sv1.thanhphoninja.com:14444:0:0,Local:127.0.0.1:14444:0:0
+Nja Tu Tiên:nsotutien.online:14444:0:0,NORMAL:svnormal.online:14444:0:0,CITY:sv1.thanhphoninja.com:14444:0:0,Local:127.0.0.1:14444:0:0
