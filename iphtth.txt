@@ -2,3 +2,5 @@ SunyTeam:27.0.12.101:2228
 Mattroi:14.225.198.121:2239
 LocalZ1:127.0.0.1:2229
 LocalZ2:localhost:2239
+LocalZ3:localhost:2239
+LocalZ4:localhost:2239
